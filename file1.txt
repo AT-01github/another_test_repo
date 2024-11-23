@@ -3,5 +3,5 @@ I'm not sure why git diff isn't working.
 Let's make another commit.
 New commit for newBranch.
 Another commit for newBranch.
-Commit for newBranch2.
-Adding another line for newBranch2.
+Conflict Commit for newBranch2.
+Demo conflict Adding another line for newBranch2.
