@@ -3,3 +3,4 @@ I'm not sure why git diff isn't working.
 Let's make another commit.
 New commit for newBranch.
 Another commit for newBranch.
+Commit for newBranch2.
